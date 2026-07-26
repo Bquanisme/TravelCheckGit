@@ -108,7 +108,7 @@ export default function HeaderPage() {
                 },
               }}
             >
-              <Tab value="/" label="Trang chủ" />
+              <Tab value="/" label="Trang không chính chủ" />
               <Tab label="Giới thiệu" />
                <Tab
                 value="place"
