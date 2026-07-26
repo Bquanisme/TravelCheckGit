@@ -108,7 +108,11 @@ export default function HeaderPage() {
                 },
               }}
             >
+<<<<<<< HEAD
               <Tab value="/" label="Trang không chính chủ" />
+=======
+              <Tab value="/" label="Trang chính chủ" />
+>>>>>>> 0233a869c5d6fc7ae2318d702a675183ee319e30
               <Tab label="Giới thiệu" />
                <Tab
                 value="place"
